@@ -28,7 +28,6 @@
  ```
 
 
-
 ## 🎨 Convenções de Nomenclatura
 - **CamelCase:**  
   - **Aplicação:** Utilizado para pacotes, atributos, métodos, variáveis e parâmetros.  
