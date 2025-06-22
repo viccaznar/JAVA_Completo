@@ -2,7 +2,7 @@
 
 Este resumo apresenta os principais conceitos e etapas para instalar o Java JDK e o Eclipse no Windows, organizados em tópicos objetivos com exemplos lúdicos e práticos para facilitar o entendimento.
 
----
+
 
 ## 1. Baixar e Instalar o Java JDK ☕
 - **Fundamento:**  
@@ -12,7 +12,7 @@ Este resumo apresenta os principais conceitos e etapas para instalar o Java JDK 
 - **Exemplo Prático:**  
   Acesse [Oracle JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) e instale o JDK para que você possa compilar e executar seus programas Java. 💻
 
----
+
 
 ## 2. Configurar as Variáveis de Ambiente do Sistema ⚙️
 - **Fundamento:**  
@@ -24,7 +24,7 @@ Este resumo apresenta os principais conceitos e etapas para instalar o Java JDK 
   - `JAVA_HOME`: `C:\Program Files\Java\jdk-11.0.4`
   - Adicione `C:\Program Files\Java\jdk-11.0.4\bin` à variável `Path` para que o comando `java -version` funcione corretamente no Terminal. 🔍
 
----
+
 
 ## 3. Testar a Instalação do Java no Terminal 🖥️
 - **Fundamento:**  
@@ -34,7 +34,7 @@ Este resumo apresenta os principais conceitos e etapas para instalar o Java JDK 
 - **Exemplo Prático:**  
   Abra o Prompt de Comando (CMD) e digite `java -version` para verificar se o Java está instalado e configurado corretamente. 📲
 
----
+
 
 ## 4. Baixar e Descompactar o Eclipse 🗃️
 - **Fundamento:**  
@@ -44,7 +44,7 @@ Este resumo apresenta os principais conceitos e etapas para instalar o Java JDK 
 - **Exemplo Prático:**  
   Visite [Eclipse Downloads](https://www.eclipse.org/downloads/packages/), baixe o pacote apropriado para o seu sistema, descompacte-o e execute o Eclipse. 📥➡️🗂️
 
----
+
 
 ## 5. Configurar e Testar o Eclipse com um Workspace 📂
 - **Fundamento:**  
@@ -54,7 +54,7 @@ Este resumo apresenta os principais conceitos e etapas para instalar o Java JDK 
 - **Exemplo Prático:**  
   Após iniciar o Eclipse, selecione ou crie um novo workspace (por exemplo, `C:\MeusProjetos\Java`) para começar a desenvolver suas aplicações. 🏗️
 
----
+
 
 ## Conclusão Final 🎯
 - **Resumo:**  

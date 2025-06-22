@@ -8,9 +8,10 @@
 - **Exemplo Prático:**  
   `4 + 5` resulta em `9`.
 
----
 
-## 🔢 Operadores Aritméticos  
+
+## 🔢 Operadores Aritméticos
+ 
 ### ➕ Adição (+)  
 - **Descrição:** Soma dois valores.  
 - **Exemplo Lúdico:**  
@@ -46,7 +47,7 @@
 - **Exemplo Prático:**  
   `14 % 3` resulta em `2`.
 
----
+
 
 ## 📏 Precedência dos Operadores  
 - **Descrição:**  
@@ -61,7 +62,7 @@
   - Com parênteses:  
     `(3 + 2) * 4` primeiro calcula `3 + 2 = 5`, depois multiplica `5 * 4 = 20`.
 
----
+
 
 ## 🔍 Exemplos de Expressões Aritméticas  
 - **Exemplo 1:**  
@@ -79,7 +80,7 @@
   - Cálculo: Dentro dos parênteses, `3 + 2 = 5`; depois, `5 * 4 = 20`; por fim, `60 / 20 = 3`  
   - Resultado: `3`
 
----
+
 
 ## 🧮 Exemplos com o Operador "mod"  
 - **Exemplo 1:**  

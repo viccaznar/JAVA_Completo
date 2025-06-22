@@ -8,7 +8,7 @@
 - **Exemplo Prático:**  
   No desenvolvimento de um aplicativo Java, o Eclipse integra um editor de código, ferramentas para depuração e um sistema de build, permitindo que o programador escreva, teste e compile seu código em um único ambiente. 🔥
 
----
+
 
 ## 2. Ferramentas e Exemplos de IDEs
 - **Para C/C++:**  
@@ -18,7 +18,7 @@
 - **Para C#:**  
   - **Exemplo:** Microsoft Visual Studio
 
----
+
 
 ## 3. Funcionalidades de Uma IDE
 - **Edição de Código Fonte** ✏️
@@ -29,7 +29,8 @@
   - **Exemplo Prático:**  
     No Visual Studio Code, ao digitar "public static void main()", o editor sugere automaticamente os termos corretos e formata o código conforme as convenções da linguagem. 💡
 
-- **Depuração e Testes** 🔍
+
+### 3.1 - Depuração e Testes 🔍
   - **Fundamento:**  
     Permite identificar e corrigir erros, facilitando a execução de testes e o monitoramento do comportamento do programa.
   - **Exemplo Lúdico:**  
@@ -37,7 +38,8 @@
   - **Exemplo Prático:**  
     Durante o desenvolvimento Java, o Eclipse permite definir breakpoints para pausar a execução do programa e inspecionar o valor das variáveis, tornando o processo de depuração mais eficiente. 🐞
 
-- **Construção do Produto Final (Build)** 🏗️
+
+- ### 3.2 - Construção do Produto Final (Build) 🏗️
   - **Fundamento:**  
     Automatiza a compilação e o empacotamento do código fonte em um executável ou outro formato de produto final.
   - **Exemplo Lúdico:**  
@@ -45,7 +47,8 @@
   - **Exemplo Prático:**  
     Usando o CodeBlocks para um projeto em C++, você compila o código e gera automaticamente um arquivo executável com apenas um clique. 🖱️
 
-- **Sugestão de Modelos (Templates)** 📄
+
+- ### 3.3 - Sugestão de Modelos (Templates) 📄
   - **Fundamento:**  
     Oferece modelos ou estruturas pré-definidas para a criação de novos projetos, poupando tempo na configuração inicial.
   - **Exemplo Lúdico:**  
@@ -53,7 +56,8 @@
   - **Exemplo Prático:**  
     O Eclipse dispõe de templates para projetos Java, configurando automaticamente a estrutura de diretórios e os arquivos base do projeto. 📁
 
-- **Auxílio em Várias Tarefas do Projeto** 🤝
+
+### 3.4 - Auxílio em Várias Tarefas do Projeto 🤝
   - **Fundamento:**  
     Integra ferramentas que auxiliam em tarefas como controle de versões, gerenciamento de dependências e automação de processos, facilitando o desenvolvimento colaborativo e a manutenção do projeto.
   - **Exemplo Lúdico:**  
@@ -61,7 +65,7 @@
   - **Exemplo Prático:**  
     IDEs como o Visual Studio integraram suporte para Git, permitindo que os desenvolvedores realizem commits, merges e gerenciem o versionamento do código diretamente no ambiente de desenvolvimento. 📊
 
----
+
 
 ## Resumo Final da Aula
 - **IDE:**  

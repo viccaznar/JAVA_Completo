@@ -2,8 +2,6 @@
 
 Este resumo abrange os principais conceitos apresentados no texto, organizados em tópicos, com explicações, exemplos lúdicos e exemplos práticos.
 
----
-
 ## 1. Linguagem de Programação 💻
 - **Fundamento:**  
   Uma linguagem de programação é um conjunto de regras léxicas (ortografia) e sintáticas (gramática) que permite escrever programas. Ela define como os algoritmos precisam ser expressos para que o computador os entenda e execute.
@@ -12,7 +10,7 @@ Este resumo abrange os principais conceitos apresentados no texto, organizados e
 - **Exemplo Prático:**  
   Em Java, por exemplo, a declaração `public static void main(String[] args)` segue regras específicas para iniciar a execução de um programa. 📝
 
----
+
 
 ## 2. Ferramentas Necessárias 🔧
 - **IDE (Ambiente de Desenvolvimento Integrado):**  
@@ -34,7 +32,7 @@ Este resumo abrange os principais conceitos apresentados no texto, organizados e
   - **Exemplo Prático:**  
     A Java Virtual Machine (JVM) executa os bytecodes gerados pelo compilador Java. 🔄
 
----
+
 
 ## 3. Léxica (Ortografia) ✏️
 - **Fundamento:**  
@@ -44,7 +42,7 @@ Este resumo abrange os principais conceitos apresentados no texto, organizados e
 - **Exemplo Prático:**  
   Um erro léxico em um código fonte, como escrever `pritn` em vez de `print` (em linguagens que utilizam essa função), resultará em erros de compilação. ❌🖋️
 
----
+
 
 ## 4. Sintática (Gramática) 📏
 - **Fundamento:**  
@@ -54,7 +52,7 @@ Este resumo abrange os principais conceitos apresentados no texto, organizados e
 - **Exemplo Prático:**  
   Em programação, a expressão `x = 2 + y;` está sintaticamente correta, ao contrário de `x = + 2 y;`, que quebra as regras gramaticais da linguagem e gera erro. ❌➡️✅
 
----
+
 
 ## 5. Exemplos de Linguagens de Programação 🖥️
 - **Fundamento:**  
@@ -64,7 +62,7 @@ Este resumo abrange os principais conceitos apresentados no texto, organizados e
 - **Exemplo Prático:**  
   Linguagens como C, C++, Java, C#, Python, Ruby, PHP e JavaScript são utilizadas para desenvolver desde sistemas operacionais até aplicações web e móveis. 📱
 
----
+
 
 ## Resumo Final da Aula 📝
 - **Linguagem de Programação:**  

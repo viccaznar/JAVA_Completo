@@ -2,7 +2,7 @@
 
 Este resumo organiza os principais conceitos e passos para iniciar um programa em Java utilizando o Eclipse no Windows. A seguir, os tópicos estão distribuídos com explicações de cada fundamento, um exemplo lúdico e um exemplo prático para facilitar a compreensão.
 
----
+
 
 ## 1. Workspace 🗂️
 - **Fundamento:**  
@@ -12,7 +12,7 @@ Este resumo organiza os principais conceitos e passos para iniciar um programa e
 - **Exemplo Prático:**  
   Ao iniciar o Eclipse, selecione ou crie um workspace (por exemplo, `C:\Users\SeuNome\workspace`) para organizar todos os seus projetos Java.
 
----
+
 
 ## 2. Mudar o Layout (Perspective) 🔄
 - **Fundamento:**  
@@ -22,7 +22,7 @@ Este resumo organiza os principais conceitos e passos para iniciar um programa e
 - **Exemplo Prático:**  
   No Eclipse, vá em **Window -> Perspective -> Open Perspective -> Java** para exibir a interface adequada para programação Java.
 
----
+
 
 ## 3. Resetar o Layout ♻️
 - **Fundamento:**  
@@ -32,7 +32,7 @@ Este resumo organiza os principais conceitos e passos para iniciar um programa e
 - **Exemplo Prático:**  
   No Eclipse, utilize **Window -> Perspective -> Reset Perspective** para redefinir o layout caso ele tenha sido alterado.
 
----
+
 
 ## 4. Mostrar a Aba Console 📺
 - **Fundamento:**  
@@ -42,7 +42,7 @@ Este resumo organiza os principais conceitos e passos para iniciar um programa e
 - **Exemplo Prático:**  
   No Eclipse, selecione **Window -> Show View -> Console** para garantir que toda a saída do seu programa seja exibida.
 
----
+
 
 ## 5. Criar Projeto 📁
 - **Fundamento:**  
@@ -52,7 +52,7 @@ Este resumo organiza os principais conceitos e passos para iniciar um programa e
 - **Exemplo Prático:**  
   No Eclipse, acesse **File -> New -> Java Project** para iniciar um novo projeto de desenvolvimento em Java.
 
----
+
 
 ## 6. Criar Classe (Main) 🏗️
 - **Fundamento:**  
@@ -62,7 +62,7 @@ Este resumo organiza os principais conceitos e passos para iniciar um programa e
 - **Exemplo Prático:**  
   No Eclipse, clique com o botão direito na pasta **src**, escolha **New -> Class**, deixe o *Package* em branco, defina o **Nome da classe** como "Main" (com "M" maiúsculo) e marque a opção **public static void main(String[] args)** para incluir o método principal. 
 
----
+
 
 ## 7. Mudar o Tamanho da Fonte 🔠
 - **Fundamento:**  
@@ -72,7 +72,7 @@ Este resumo organiza os principais conceitos e passos para iniciar um programa e
 - **Exemplo Prático:**  
   Use o atalho **CTRL +** para aumentar o tamanho da fonte (e **CTRL -** para diminuir, se necessário) no editor do Eclipse.
 
----
+
 
 ## Conclusão Final 🎯
 - Ao configurar corretamente o *workspace*, ajustar o layout, exibir a aba Console e criar um novo projeto e classe "Main", você estabelece as bases necessárias para começar a programar em Java.

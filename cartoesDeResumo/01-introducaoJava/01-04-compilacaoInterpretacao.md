@@ -2,7 +2,7 @@
 
 Este resumo apresenta de forma organizada os principais conceitos relacionados à compilação, interpretação, código fonte/objeto e ao uso de máquinas virtuais. São explicadas as características, fundamentos e vantagens, acompanhadas de exemplos lúdicos e práticos.
 
----
+
 
 ## 1. Código Fonte e Código Objeto/Bytecode 📄➡️💻
 - **Fundamento:**  
@@ -13,7 +13,7 @@ Este resumo apresenta de forma organizada os principais conceitos relacionados �
 - **Exemplo Prático:**  
   Um arquivo `.java` (código fonte Java) é compilado para um arquivo `.class` (bytecode), pronto para ser executado pela JVM. 📥➡️📦
 
----
+
 
 ## 2. Compilação 🔨
 - **Fundamento:**  
@@ -23,7 +23,7 @@ Este resumo apresenta de forma organizada os principais conceitos relacionados �
 - **Exemplo Prático:**  
   Linguagens como C e C++ usam compiladores (por exemplo, `gcc` ou `g++`) para converter o código fonte em códigos objeto e gerar arquivos executáveis (.exe ou binários). 🖥️
 
----
+
 
 ## 3. Interpretação 🔄
 - **Fundamento:**  
@@ -33,7 +33,7 @@ Este resumo apresenta de forma organizada os principais conceitos relacionados �
 - **Exemplo Prático:**  
   Linguagens como Python, PHP, JavaScript e Ruby utilizam interpretadores que processam o código fonte diretamente, permitindo rápidas modificações e testes interativos. 🐍
 
----
+
 
 ## 4. Abordagem Híbrida e Máquina Virtual 🔀
 - **Fundamento:**  
@@ -43,7 +43,7 @@ Este resumo apresenta de forma organizada os principais conceitos relacionados �
 - **Exemplo Prático:**  
   Java utiliza essa abordagem: o código fonte `.java` é compilado para bytecode `.class`, que é interpretado e/ou compilado “just-in-time” pela Java Virtual Machine (JVM). Da mesma forma, C# utiliza o .NET Framework com Common Intermediate Language (CIL). 💻
 
----
+
 
 ## 5. Vantagens das Abordagens ⚖️
 - **Compilação:**  
@@ -61,7 +61,7 @@ Este resumo apresenta de forma organizada os principais conceitos relacionados �
     • O código fonte não precisa ser recompilado para rodar em diferentes plataformas, pois o bytecode é executado por uma máquina virtual compatível.
   - **Emoticons:** 🌍🔄
 
----
+
 
 ## Resumo Final da Aula 📝
 - **Tipos de Código:**  

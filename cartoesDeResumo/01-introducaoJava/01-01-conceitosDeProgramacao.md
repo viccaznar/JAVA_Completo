@@ -2,8 +2,6 @@
 
 Este resumo reúne os principais conceitos abordados no texto, organizando-os em tópicos objetivos que explicam cada fundamento. São apresentados exemplos lúdicos e práticos para facilitar a compreensão.
 
----
-
 ## 1. Algoritmo 🔍
 - **Fundamento:**  
   Um algoritmo é uma sequência finita de instruções desenvolvidas para resolver um problema. Esse conceito é aplicável a diversas áreas do conhecimento, funcionando como um passo a passo que, quando seguido, leva à solução desejada.
@@ -12,7 +10,7 @@ Este resumo reúne os principais conceitos abordados no texto, organizando-os em
 - **Exemplo Prático:**  
   Em programação, um algoritmo pode ser implementado em Java para processar dados, realizar cálculos ou manipular estruturas (como ordenar uma lista de números). Por exemplo, um algoritmo para calcular a média de um conjunto de valores lidos de um arquivo. 💻
 
----
+
 
 ## 2. Automação 🤖
 - **Fundamento:**  
@@ -22,7 +20,7 @@ Este resumo reúne os principais conceitos abordados no texto, organizando-os em
 - **Exemplo Prático:**  
   Em sistemas de software, a automação pode ser feita por meio de scripts ou programas que realizam tarefas repetitivas, como a execução de testes automatizados em um ambiente de desenvolvimento Java para garantir a qualidade do código. ⚙️
 
----
+
 
 ## 3. Computador 💻
 - **Fundamento:**  
@@ -32,7 +30,7 @@ Este resumo reúne os principais conceitos abordados no texto, organizando-os em
 - **Exemplo Prático:**  
   Um computador pessoal (desktop ou laptop) executa diversas aplicações, como editores de texto, navegadores e jogos, utilizando um sistema operacional (Windows, Linux, ou MacOS) para coordenar todas essas operações. 🖥️
 
----
+
 
 ## 4. Programa de Computador 📝
 - **Fundamento:**  
@@ -42,7 +40,7 @@ Este resumo reúne os principais conceitos abordados no texto, organizando-os em
 - **Exemplo Prático:**  
   Um software desenvolvido em Java que executa cálculos financeiros, manipulando grandes volumes de dados para gerar relatórios, é um exemplo claro de como um algoritmo pode ser traduzido em um programa de computador. 💼
 
----
+
 
 ## Resumo Final
 - **Algoritmo:** Sequência finita de instruções para resolver um problema.  

@@ -2,7 +2,7 @@
 
 Este resumo abrange os principais conceitos do capítulo de introdução à linguagem Java, organizando os tópicos de forma objetiva e ilustrando cada fundamento com exemplos lúdicos e práticos.
 
----
+
 
 ## 1. Entendendo as Versões do Java 📅
 - **Fundamento:**  
@@ -12,7 +12,7 @@ Este resumo abrange os principais conceitos do capítulo de introdução à ling
 - **Exemplo Prático:**  
   Empresas optam por utilizar uma versão LTS do Java para sistemas críticos, garantindo atualizações e suporte prolongado sem a necessidade de constantes migrações. 🏢
 
----
+
 
 ## 2. Java: Contextualização 💡
 - **Fundamento:**  
@@ -26,7 +26,7 @@ Este resumo abrange os principais conceitos do capítulo de introdução à ling
 - **Exemplo Prático:**  
   Um desenvolvedor utiliza Java para criar um aplicativo financeiro, aproveitando as APIs padrão para manipulação de dados e a JVM para garantir a portabilidade entre diferentes sistemas operacionais. 💻💼
 
----
+
 
 ## 3. Histórico do Java ⏳
 - **Fundamento:**  
@@ -36,7 +36,7 @@ Este resumo abrange os principais conceitos do capítulo de introdução à ling
 - **Exemplo Prático:**  
   A portabilidade do Java permite que uma mesma aplicação empresarial rode tanto em servidores Linux quanto em desktops Windows, sem alterações significativas no código. 🖥️🔄
 
----
+
 
 ## 4. Aspectos Notáveis do Java ⭐
 - **Fundamento:**  
@@ -48,7 +48,7 @@ Este resumo abrange os principais conceitos do capítulo de introdução à ling
 - **Exemplo Prático:**  
   Uma aplicação Android, por exemplo, é desenvolvida em Java e funciona em diferentes dispositivos móveis graças à portabilidade garantida pelo bytecode e a JVM. 📱👌
 
----
+
 
 ## 5. Edições do Java 📚
 - **Fundamento:**  
@@ -61,7 +61,7 @@ Este resumo abrange os principais conceitos do capítulo de introdução à ling
 - **Exemplo Prático:**  
   Uma empresa que desenvolve sistemas bancários utiliza o Java EE para aproveitar frameworks robustos e escaláveis que facilitam a criação de aplicações corporativas complexas. 🏦
 
----
+
 
 ## 6. Plataforma Java SE e a JVM 🖥️
 - **Fundamento:**  
@@ -72,7 +72,7 @@ Este resumo abrange os principais conceitos do capítulo de introdução à ling
 - **Exemplo Prático:**  
   O mesmo bytecode Java pode ser executado em um servidor Linux e em um desktop Windows, graças à JVM que interpreta o bytecode de maneira universal. 🔄
 
----
+
 
 ## 7. Compilação e Interpretação 🔨🔄
 - **Fundamento:**  
@@ -85,7 +85,7 @@ Este resumo abrange os principais conceitos do capítulo de introdução à ling
 - **Exemplo Prático:**  
   Java, por exemplo, utiliza um compilador para transformar código fonte em bytecode, que é então interpretado ou compilado "just-in-time" pela JVM, combinando os benefícios de ambas as abordagens. ⚙️
 
----
+
 
 ## Conclusão Final 📝
 - **Java** é tanto uma linguagem de programação quanto uma plataforma completa com bibliotecas, ferramentas e ambientes de execução, que evoluiu para resolver problemas de portabilidade, segurança e robustez.
